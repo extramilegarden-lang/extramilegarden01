@@ -1,0 +1,3 @@
+name,ttl,type,value
+"www.extramilegarden.com","3600","NETLIFY","extramilegarden.netlify.app"
+"extramilegarden.com","3600","NETLIFY","extramilegarden.netlify.app"
